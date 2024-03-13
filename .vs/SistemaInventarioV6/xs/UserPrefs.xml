@@ -1,4 +1,50 @@
 ﻿<Properties StartupConfiguration="{301B2293-8669-4216-B81B-5E2680DA06C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SistemaInventarioV6/appsettings.Development.json">
+    <Files>
+      <File FileName="SistemaInventarioV6/appsettings.json" Line="3" Column="156" />
+      <File FileName="SistemaInventarioV6/Program.cs" Line="10" Column="45" />
+      <File FileName="SistemaInventarioV6/Controllers/HomeController.cs" Line="3" Column="44" />
+      <File FileName="SistemaInventarioV6/Views/Home/Index.cshtml" Line="6" Column="38" />
+      <File FileName="SistemaInventarioV6/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="SistemaInventario.AccesoDatos/Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="3" Column="32" />
+      <File FileName="SistemaInventario.AccesoDatos/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" Line="1" Column="1" />
+      <File FileName="SistemaInventario.AccesoDatos/Data/ApplicationDbContext.cs" Line="4" Column="40" />
+      <File FileName="SistemaInventario.Modelos/ViewModels/ErrorViewModel.cs" Line="1" Column="41" />
+      <File FileName="SistemaInventario.Utilidades/DS.cs" Line="4" Column="16" />
+      <File FileName="SistemaInventarioV6/Views/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="SistemaInventarioV6/Views/Shared/Error.cshtml" Line="2" Column="44" />
+      <File FileName="SistemaInventarioV6/Views/Shared/_Layout.cshtml" Line="34" Column="131" />
+      <File FileName="SistemaInventarioV6/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaInventarioV6" expanded="True">
+            <Node name="SistemaInventario.AccesoDatos">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="SistemaInventarioV6">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SistemaInventarioV6 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SistemaInventarioV6 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

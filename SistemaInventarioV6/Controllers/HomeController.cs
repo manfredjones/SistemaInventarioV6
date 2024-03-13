@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SistemaInventarioV6.Models;
+using SistemaInventario.Modelos.ViewModels;
 
 namespace SistemaInventarioV6.Controllers;
 
