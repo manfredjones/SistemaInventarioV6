@@ -1,7 +1,6 @@
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/bin/Debug/net6.0/SistemaInventario.Utilidades.deps.json
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/bin/Debug/net6.0/SistemaInventario.Utilidades.dll
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/bin/Debug/net6.0/SistemaInventario.Utilidades.pdb
-/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.csproj.AssemblyReference.cache
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.AssemblyInfoInputs.cache
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.AssemblyInfo.cs
@@ -10,3 +9,4 @@
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/refint/SistemaInventario.Utilidades.dll
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.pdb
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/ref/SistemaInventario.Utilidades.dll
+/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.Utilidades/obj/Debug/net6.0/SistemaInventario.Utilidades.sourcelink.json

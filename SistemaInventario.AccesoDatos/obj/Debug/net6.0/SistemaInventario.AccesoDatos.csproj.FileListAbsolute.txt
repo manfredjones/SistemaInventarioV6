@@ -10,8 +10,9 @@
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.AssemblyInfoInputs.cache
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.AssemblyInfo.cs
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
-/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.csproj.CopyComplete
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.dll
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/refint/SistemaInventario.AccesoDatos.dll
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.pdb
 /Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/ref/SistemaInventario.AccesoDatos.dll
+/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaInventario.AccesoDatos.sourcelink.json
+/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventario.AccesoDatos/obj/Debug/net6.0/SistemaI.AC5EC1CF.Up2Date

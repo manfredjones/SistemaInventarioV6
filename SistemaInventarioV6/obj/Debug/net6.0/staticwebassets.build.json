@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4KWVyFC4HpV5RWDC9pSJbHU0asj86G7l7HDB28Yl57s=",
+  "Hash": "MXGWRU4oUfuQxeqK+k5DSgMjHlN6TT6nXCUg8Dcmh0s=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/Bodega.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Bodega.js"
     },
     {
       "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/site.js",

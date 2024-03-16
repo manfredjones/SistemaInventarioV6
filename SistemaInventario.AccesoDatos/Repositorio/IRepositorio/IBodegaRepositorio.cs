@@ -1,8 +1,14 @@
 ﻿using System;
+using SistemaInventario.Modelos;
+
 namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 {
-	public interface IBodegaRepositorio
+	public interface IBodegaRepositorio : IRepositorio<Bodega>
 	{
+
+		void Actualizar(Bodega bodega);
+
+
 	}
 }
 

@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <None Remove="Areas\Inventario\" />
+    <None Remove="Areas\Controllers\" />
+    <None Remove="Views\Bodega\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -37,5 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\Inventario\" />
+    <Folder Include="Areas\Controllers\" />
+    <Folder Include="Views\Bodega\" />
   </ItemGroup>
 </Project>
