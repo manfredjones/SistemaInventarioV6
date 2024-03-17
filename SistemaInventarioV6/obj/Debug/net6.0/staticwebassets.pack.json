@@ -13,8 +13,12 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/Bodega.js",
-      "PackagePath": "staticwebassets/js/Bodega.js"
+      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/bodega.js",
+      "PackagePath": "staticwebassets/js/bodega.js"
+    },
+    {
+      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/categoria.js",
+      "PackagePath": "staticwebassets/js/categoria.js"
     },
     {
       "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/site.js",
