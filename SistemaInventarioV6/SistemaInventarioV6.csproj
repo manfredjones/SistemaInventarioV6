@@ -12,6 +12,7 @@
     <None Remove="Areas\Controllers\" />
     <None Remove="Views\Bodega\" />
     <None Remove="Views\Categoria\" />
+    <None Remove="Views\Marca\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -43,5 +44,6 @@
     <Folder Include="Areas\Controllers\" />
     <Folder Include="Views\Bodega\" />
     <Folder Include="Views\Categoria\" />
+    <Folder Include="Views\Marca\" />
   </ItemGroup>
 </Project>

@@ -5,9 +5,9 @@ using SistemaInventario.Modelos;
 
 namespace SistemaInventario.AccesoDatos.Configuracion
 {
-	public class CategoriaConfiguracion : IEntityTypeConfiguration<Categoria>
+	public class MarcaConfiguracion : IEntityTypeConfiguration<Marca>
 	{
-		public void Configure(EntityTypeBuilder<Categoria> builder)
+		public void Configure(EntityTypeBuilder<Marca> builder)
 		{
 			builder.Property(x => x.Id).IsRequired();
             builder.Property(x => x.Nombre).IsRequired().HasMaxLength(60);
