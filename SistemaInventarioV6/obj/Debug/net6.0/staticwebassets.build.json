@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RO/+RS4MqBUegVqJAsYqsken0i26cK5XKwiFq5lxMIE=",
+  "Hash": "UytK9aD0nt7cFRLXPhAaaIfeSCNUVzE368T7aevQx9c=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -1122,23 +1122,6 @@
       "OriginalItemSpec": "wwwroot/js/bodega.js"
     },
     {
-      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/categoria (copy).js",
-      "SourceId": "SistemaInventarioV6",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
-      "BasePath": "_content/SistemaInventarioV6",
-      "RelativePath": "js/categoria (copy).js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/categoria (copy).js"
-    },
-    {
       "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/categoria.js",
       "SourceId": "SistemaInventarioV6",
       "SourceType": "Discovered",
@@ -1154,6 +1137,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/categoria.js"
+    },
+    {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/marca.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/marca.js"
+    },
+    {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/producto.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/producto.js"
     },
     {
       "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/site.js",
