@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UytK9aD0nt7cFRLXPhAaaIfeSCNUVzE368T7aevQx9c=",
+  "Hash": "dJcOyMJyAEJkz00EaF9zXOlOZeCpmYj78TS2LGKDto0=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/obj/Debug/net6.0/scopedcss/projectbundle/SistemaInventarioV6.bundle.scp.css"
     },
     {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/.DS_Store",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/css/site.css",
       "SourceId": "SistemaInventarioV6",
       "SourceType": "Discovered",
@@ -1103,6 +1120,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/Imagenes/icono.ico",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "Imagenes/icono.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Imagenes/icono.ico"
+    },
+    {
+      "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/Imagenes/icono.png",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "Imagenes/icono.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Imagenes/icono.png"
     },
     {
       "Identity": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/js/bodega.js",

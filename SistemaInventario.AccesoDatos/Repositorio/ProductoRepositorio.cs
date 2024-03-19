@@ -64,7 +64,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             {
                 return _db.Productos.Where(c => c.Estado == true).Select(c => new SelectListItem
                 {
-                    Text = c.Nombre,
+                    Text = c.NumeroSerie,
                     Value = c.Id.ToString()
                 });
 

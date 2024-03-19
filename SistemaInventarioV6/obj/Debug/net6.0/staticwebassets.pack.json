@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets/SistemaInventarioV6.bundle.scp.css"
     },
     {
+      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/Imagenes/icono.ico",
+      "PackagePath": "staticwebassets/Imagenes/icono.ico"
+    },
+    {
+      "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/Imagenes/icono.png",
+      "PackagePath": "staticwebassets/Imagenes/icono.png"
+    },
+    {
       "Id": "/Users/manfredjonessanabria/SistemaInventarioV6/SistemaInventarioV6/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
