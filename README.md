@@ -1,1 +1,1 @@
-Debido a incompatibilidades de mi sistema operativo (macOS) con los productos requeridos, no me fue posible implementar la totalidad del proyecto, ya que no pude tener lista la máquina virtual para la fecha de entrega de la asignación.
+
